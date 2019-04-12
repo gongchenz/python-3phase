@@ -8,3 +8,5 @@
 * [**凤 https://github.com/CandyTYF/tangtang](https://github.com/CandyTYF/tangtang)
 * [**俊 https://github.com/limingjun1234](https://github.com/limingjun1234)
 * [**仪 https://github.com/Chenzhiyi335](https://github.com/Chenzhiyi335)
+* [**叮 https://github.com/Dulaidingdd](https://github.com/Dulaidingdd)
+* [**茂 https://github.com/tatarianaster](https://github.com/tatarianaster)
