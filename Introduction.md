@@ -8,9 +8,9 @@
     * 学习目标：能上传文件，修改文件就可以
     * [sourcetree跳过注册的方法](https://www.cnblogs.com/lucio110/p/8192792.html)
     * [使用方法](https://www.jianshu.com/p/11bba2b1e95d)
-    
 
 
 ## 开发环境的准备
 1. 安装Python的编译器
 2. 安装开发环境VS-Code
+3. 用print语句输出一段话
