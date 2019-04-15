@@ -12,4 +12,4 @@
 * [**茂 https://github.com/tatarianaster](https://github.com/tatarianaster)
 * [**辉 https://github.com/owen1712/yanghui](https://github.com/owen1712/yanghui)
 
-看此文档，比得永生
+看此文档，必得永生
