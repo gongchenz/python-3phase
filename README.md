@@ -5,7 +5,7 @@
 * [**燃 https://github.com/mufengshaonian/hello-world](https://github.com/mufengshaonian/hello-world)
 * [**昊 https://github.com/yanghaocwt1](https://github.com/yanghaocwt1) X
 * [**均 https://github.com/Null213/Hello_Python/](https://github.com/Null213/Hello_Python/) x
-* [**凤 https://github.com/CandyTYF/hello-world](https://github.com/CandyTYF/hello-world)
+* [**凤 https://github.com/CandyTYF/hello-world](https://github.com/CandyTYF/hello-world) x
 * [**俊 https://github.com/limingjun1234/hello-world](https://github.com/limingjun1234/hello-world)
 * [**仪 https://github.com/Chenzhiyi335/Python-Lesson-](https://github.com/Chenzhiyi335/Python-Lesson-) x
 * [**叮 https://github.com/Dulaidingdd/Hellodd](https://github.com/Dulaidingdd/Hellodd) x
